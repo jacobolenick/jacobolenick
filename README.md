@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there, I'm Jacob Olenick 👋
 
-<!--
-**jacobolenick/jacobolenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently a coding boocamp student:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Bootcamp: Nucamp Coding Bootcamp ...
+
+
+Current Languages:
+
+
+- ReactJS
+- React Native
+- MongoDB
+- Express
+- NodeJS
+- Git
+
+
+- ⚡ Fun facts: 
+
+
+- I'm a huge #desksetup person
+
+- I worked in tech as a UX/UI designer
+
+
+
+
+- ⚡ Why I code:
+
+
+- I wan't to help solver problems and help make an impact on the world through technology
+
+
+- I have a dream of starting a tech company one day
+
 -->
