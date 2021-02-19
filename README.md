@@ -11,6 +11,7 @@ Currently a coding boocamp student:
 
 - ReactJS
 - React Native
+- NextJS
 - MongoDB
 - Express
 - NodeJS
