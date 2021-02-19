@@ -31,9 +31,17 @@ Currently a coding boocamp student:
 - ⚡ Why I code:
 
 
-- I wan't to help solver problems and help make an impact on the world through technology
+- I wan't to help solve problems and help make an impact on the world through technology
 
 
 - I have a dream of starting a tech company one day
+
+
+
+- ⚡ Links:
+
+- https://www.instagram.com/coffeeprogrammer
+- https://www.twitter.com/jacobolenick
+- https://www.linkedin.com/in/jacobmolenick
 
 -->
