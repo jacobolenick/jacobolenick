@@ -41,7 +41,7 @@ Currently a coding boocamp student:
 
 - ⚡ Portolfio:
 
-- jacobolenick.com
+- www.jacobolenick.com
 
 
 
