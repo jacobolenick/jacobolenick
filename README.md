@@ -5,6 +5,8 @@ Currently a coding boocamp student:
 
 - 🔭 Bootcamp: Nucamp Coding Bootcamp ...
 
+- ⚡ Current Role: Software Engineer at V.One ...
+
 
 - ⚡ Current Languages:
 
