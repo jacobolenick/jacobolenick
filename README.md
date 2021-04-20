@@ -43,7 +43,7 @@ Currently a coding boocamp student:
 
 - ⚡ Portolfio:
 
-- www.jacobolenick.com
+- www.jacobolenick.dev
 
 
 
