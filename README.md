@@ -5,13 +5,14 @@ Currently a coding boocamp student:
 
 - 🔭 Bootcamp: Nucamp Coding Bootcamp ...
 
-- ⚡ Current Role: Software Engineer at V.One ...
+- ⚡ Looking for a front-end developer role
 
 
 - ⚡ Current Languages:
 
 
 - ReactJS
+- Javascript
 - React Native
 - NextJS
 - MongoDB
