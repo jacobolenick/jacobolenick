@@ -1,24 +1,14 @@
 ### Hi there, I'm Jacob Olenick 👋
 
-
-Currently a coding boocamp student:
-
-- 🔭 Bootcamp: Nucamp Coding Bootcamp ...
-
 - ⚡ Looking for a front-end developer role
 
+🔭  I just graduated NuCamp Coding Bootcamp with honors and in the top 10% of all graduates. I'm targeting Front-end developer React.JS or React Native positions. Open to full-Stack Node.Js roles as well.
 
-- ⚡ Current Languages:
+⚡ My tech stack is: React, React Native, MongoDB, Express, Node.JS, Javascript, HTML, CSS, SCSS, Bootstrap, React Strap, Materialize CSS, Material UI, AJAX, JSON, APIs.
 
+⚡ UX/UI: Figma, Adobe XD, ClickUp, Slack, Webflow, Lucid Charts
 
-- ReactJS
-- Javascript
-- React Native
-- NextJS
-- MongoDB
-- Express
-- NodeJS
-- Git
+Previously Lead UX/UI Design teams for startups.
 
 
 - ⚡ Fun facts: 
@@ -26,9 +16,7 @@ Currently a coding boocamp student:
 
 - I'm a huge #desksetup person
 
-- I worked in tech as a UX/UI designer
-
-
+- I'm a minimalist
 
 
 - ⚡ Why I code:
@@ -38,7 +26,6 @@ Currently a coding boocamp student:
 
 
 - I have a dream of starting a tech company one day
-
 
 
 
