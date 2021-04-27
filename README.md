@@ -10,6 +10,5 @@ In the future, my plan is to start a tech startup to bring my love of coding and
 
 Portolfio: www.jacobolenick.dev
 
-Links: https://www.instagram.com/coffeeprogrammer https://www.twitter.com/jacobolenick https://www.linkedin.com/in/jacobmolenick
+Links: [Instagram](http://www.instagram.com/coffeeprogrammer) [Twitter](https://www.twitter.com/jacobolenick) [Linkedin](https://www.linkedin.com/in/jacobmolenick)
 
--->
