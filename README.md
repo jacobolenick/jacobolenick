@@ -2,7 +2,7 @@
 
 I'm a developer who has a passion to build things that impact the world in a possitive way. I'm currently seeking my first front-end engineer position.
 
-👨‍🎓  I just graduated NuCamp Coding Bootcamp with honors and in the top 10% of all graduates. My tech stack is: React, React Native, MongoDB, Express, Node.JS, Javascript, HTML, CSS, SCSS, Bootstrap, React Strap, Materialize CSS, Material UI, AJAX, JSON, APIs.
+👨‍🎓  I just graduated NuCamp Coding Bootcamp with honors and in the top 10% of all graduates. My tech stack is: React, React Native, MongoDB, Express, Node.JS, Javascript, HTML, CSS, SCSS, Bootstrap, React Strap, Materialize CSS, Material UI, AJAX, Redux, JSON, APIs.
 
 I previously Lead UX/UI Design teams for startups.
 
