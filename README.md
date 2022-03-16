@@ -1,14 +1,11 @@
 ### Hi there, I'm Jacob Olenick 👋
 
-I'm a developer who has a passion to build things that impact the world in a possitive way. I'm currently seeking my first front-end engineer position.
+I'm a Senior Product Designer for a San Fransisco company. I am currently learning to code "again". 
 
-👨‍🎓  I just graduated NuCamp Coding Bootcamp with honors and in the top 10% of all graduates. My tech stack is: React, React Native, MongoDB, Express, Node.JS, Javascript, HTML, CSS, SCSS, Bootstrap, React Strap, Materialize CSS, Material UI, AJAX, Redux, JSON, APIs.
-
-I previously Lead UX/UI Design teams for startups.
+👨‍🎓  I graduated NuCamp Coding Bootcamp with honors and in the top 10% of all graduates in May of 2021. My tech stack is: React, React Native, Javascript, HTML, CSS, SCSS, Bootstrap, React Strap, Materialize CSS, Material UI, AJAX, Redux, JSON, APIs.
 
 In the future, my plan is to start a tech startup to bring my love of coding and entrepreneurship together.
 
-Portolfio: www.jacobolenick.dev
 
 Links: [Instagram](http://www.instagram.com/coffeeprogrammer) [Twitter](https://www.twitter.com/jacobolenick) [Linkedin](https://www.linkedin.com/in/jacobmolenick)
 
