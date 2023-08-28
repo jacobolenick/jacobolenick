@@ -7,5 +7,5 @@ I'm a Senior Product Designer @ Cisco Prev: Wells Fargo & ParamountPlus where I 
 In the future, my plan is to start a tech startup to bring my love of coding and entrepreneurship together.
 
 
-Links: [Twitter](https://www.twitter.com/jacobolenick) [Linkedin](https://www.linkedin.com/in/jacobmolenick)
+Links: [Threads](https://www.threads.net/jacob.olenick) [Linkedin](https://www.linkedin.com/in/jacobmolenick)
 
