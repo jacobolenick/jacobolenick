@@ -10,5 +10,5 @@
 
 
 
-Links: [Threads](https://www.threads.net/jacob.olenick) | [Linkedin](https://www.linkedin.com/in/jacobmolenick)
+    Links: [Threads](https://www.threads.net/jacob.olenick) | [Linkedin](https://www.linkedin.com/in/jacobmolenick)
 
