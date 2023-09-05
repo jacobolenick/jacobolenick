@@ -1,4 +1,4 @@
-# Hi there, 👋 I'm Jacob Olenick
+# Hey 👋, I'm Jacob
 
 ## I'm a Senior Product Designer @ [Cisco](https://www.cisco.com)
 
