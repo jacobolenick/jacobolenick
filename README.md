@@ -1,10 +1,10 @@
 # Hey 👋, I'm Jacob
 
-## I'm a Senior Product Designer @ [Cisco](https://www.cisco.com)
+## I'm a Senior Product Designer Lead @ [Credit One Bank](https://www.creditone.com)
 
 *  I'm also a UX Mentor to up-and-coming designers. 
 
-*  Previously I worked for [Wells Fargo](wellsfargo.com) where I designed the platform Vantage & [ParamountPlus](paramountplus.com) where I owned the homepage design as well as all marquees and carousels, plus some other cool features. 
+*  Previously I worked for [Cisco](www.cisco.com), [Wells Fargo](wellsfargo.com) where I designed the platform Vantage & [ParamountPlus](paramountplus.com) where I owned the homepage design as well as all marquees and carousels, plus some other cool features. 
 
 *  🧑‍💻 I am currently learning to code and so far I'm learning Javascript & React. 
 
