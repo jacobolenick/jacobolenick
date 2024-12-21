@@ -1,13 +1,12 @@
 # Hey 👋, I'm Jacob
 
-## I'm a Senior Product Designer Lead @ [Credit One Bank](https://www.creditone.com)
+## I'm a Lead Product Designer working on Design Systems @ [CVS Health](https://www.cvshealth.com)
 
 *  I'm also a UX Mentor to up-and-coming designers. 
 
-*  Previously I worked for [Cisco](www.cisco.com), [Wells Fargo](wellsfargo.com) where I designed the platform Vantage & [ParamountPlus](paramountplus.com) where I owned the homepage design as well as all marquees and carousels, plus some other cool features. 
-
-*  🧑‍💻 I am currently learning to code and so far I'm learning Javascript & React. 
-
+*  Previously I worked for [Credit One Bank](www.reditonebank.com), [Cisco](www.cisco.com), [Wells Fargo](wellsfargo.com), & [ParamountPlus](paramountplus.com).
+*  
+* 🧑‍💻 I am currently learning to code to become a design engineer
 
 
     Links: [Threads](https://www.threads.net/jacob.olenick) | [Linkedin](https://www.linkedin.com/in/jacobmolenick)
