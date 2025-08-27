@@ -1,6 +1,6 @@
 # Hey 👋, I'm Jacob
 
-## I'm a Lead Product Designer working on Design Systems @ [CVS Health](https://www.cvshealth.com)
+## I'm a Principal Product Designer working @ [CVS Health](https://www.cvshealth.com)
 
 *  I'm also a UX Mentor to up-and-coming designers. 
 
